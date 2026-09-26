@@ -1,1 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StudyHub | Student Learning Platform</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <header>
+        <nav class="navbar">
+
+            <h2 class="logo">StudyHub</h2>
+
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#resources">Resources</a></li>
+                <li><a href="#tips">Study Tips</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+
+        </nav>
+    </header>
+
+
+    <!-- Main Content -->
+    <main>
+
+        <!-- Hero Section -->
+        <section id="home" class="hero">
+
+            <div class="hero-content">
+
+                <p class="tagline">YOUR STUDY COMPANION</p>
+
+                <h1>Study Smarter, Not Harder</h1>
+
+                <p>
+                    Find useful study resources, practical tips and
+                    helpful tools to make your learning journey easier.
+                </p>
+
+                <a href="#resources" class="button">
+                    Explore Resources
+                </a>
+
+                <h3>
+                    Website Layout Clone done by varshan@mulearn
+                </h3>
+
+            </div>
+
+        </section>
+
+
+        <!-- Resources Section -->
+        <section id="resources" class="resources">
+
+            <div class="section-title">
+
+                <p class="tagline">LEARNING RESOURCES</p>
+
+                <h2>Everything You Need to Learn</h2>
+
+                <p>
+                    Explore useful resources designed to support
+                    your daily learning.
+                </p>
+
+            </div>
+
+
+            <div class="resource-grid">
+
+                <article class="resource-card">
+
+                    <div class="icon">📚</div>
+
+                    <h3>Study Notes</h3>
+
+                    <p>
+                        Organize important concepts and revision
+                        notes in one place.
+                    </p>
+
+                    <a href="#contact">Explore →</a>
+
+                </article>
+
+
+                <article class="resource-card">
+
+                    <div class="icon">💡</div>
+
+                    <h3>Study Tips</h3>
+
+                    <p>
+                        Discover simple techniques to improve
+                        focus, memory and productivity.
+                    </p>
+
+                    <a href="#tips">Learn Tips →</a>
+
+                </article>
+
+
+                <article class="resource-card">
+
+                    <div class="icon">🛠️</div>
+
+                    <h3>Useful Tools</h3>
+
+                    <p>
+                        Find tools that can help with planning,
+                        learning and revision.
+                    </p>
+
+                    <a href="#contact">Explore →</a>
+
+                </article>
+
+            </div>
+
+        </section>
+
+
+        <!-- Study Tips Section -->
+        <section id="tips" class="tips">
+
+            <div class="section-title">
+
+                <p class="tagline">STUDY SMART</p>
+
+                <h2>Simple Study Method</h2>
+
+            </div>
+
+
+            <div class="tips-grid">
+
+                <article>
+                    <span>01</span>
+                    <h3>Plan</h3>
+                    <p>Create a realistic study schedule.</p>
+                </article>
+
+                <article>
+                    <span>02</span>
+                    <h3>Focus</h3>
+                    <p>Study without unnecessary distractions.</p>
+                </article>
+
+                <article>
+                    <span>03</span>
+                    <h3>Practice</h3>
+                    <p>Practice questions and previous papers.</p>
+                </article>
+
+                <article>
+                    <span>04</span>
+                    <h3>Revise</h3>
+                    <p>Review important concepts regularly.</p>
+                </article>
+
+            </div>
+
+        </section>
+
+
+        <!-- Contact Section -->
+        <section id="contact" class="contact">
+
+            <h2>Ready to Start Learning?</h2>
+
+            <p>
+                Start building better study habits today.
+            </p>
+
+            <a href="mailto:student@example.com" class="button">
+                Get Started
+            </a>
+
+        </section>
+
+    </main>
+
+
+    <!-- Footer -->
+    <footer>
+
+        <p>
+            &copy; 2026 StudyHub. Built as a CSS Layout Clone.
+        </p>
+
+    </footer>
+
+</body>
+
+</html>
